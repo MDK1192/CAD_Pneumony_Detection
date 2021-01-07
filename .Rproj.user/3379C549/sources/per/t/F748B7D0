@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609763303177.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2417916247",
+    "id" : "F748B7D0",
+    "lastKnownWriteTime" : 1609763394,
+    "last_content_update" : 1609763394910,
+    "path" : "~/GitHub/CAD_Pneumony_Detection/Test_model_skript_vgg.py",
+    "project_path" : "Test_model_skript_vgg.py",
+    "properties" : {
+        "cursorPosition" : "25,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "python"
+}

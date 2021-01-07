@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609762928000.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2510633811",
+    "id" : "B77F0947",
+    "lastKnownWriteTime" : 1609765778,
+    "last_content_update" : 1609765778845,
+    "path" : "~/GitHub/CAD_Pneumony_Detection/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "170,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

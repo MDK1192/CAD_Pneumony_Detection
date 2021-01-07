@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609763291797.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1896817241",
+    "id" : "9A9368CC",
+    "lastKnownWriteTime" : 1609762551,
+    "last_content_update" : 1609762551,
+    "path" : "~/GitHub/CAD_Pneumony_Detection/Test_model_skript_google.py",
+    "project_path" : "Test_model_skript_google.py",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "python"
+}
